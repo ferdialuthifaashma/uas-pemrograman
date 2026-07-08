@@ -4,34 +4,34 @@
     "email": "george.bluth@regres.in",
     "gambar_avatar": "",
     "first_name": "george",
-    "last_name": "bluth",
+    "last_name": "bluth"
   },
   {
     "id": 2,
     "email": "leonel.messi@regres.in",
     "gambar_avatar": "",
     "first_name": "leonel",
-    "last_name": "messi",
+    "last_name": "messi"
   },
   {
     "id": 3,
     "email": "kylian.mbappe@regres.in",
     "gambar_avatar": "",
     "first_name": "kylian",
-    "last_name": "mbappe",
+    "last_name": "mbappe"
   },
   {
     "id": 4,
     "email": "cristiano.ronaldo@regres.in",
     "gambar_avatar": "",
     "first_name": "cristiano",
-    "last_name": "ronaldo",
+    "last_name": "ronaldo"
   },
   {
     "id": 5,
     "email": "erling.haaland@regres.in",
     "gambar_avatar": "",
     "first_name": "erling",
-    "last_name": "haaland",
-  },
+    "last_name": "haaland"
+  }
 ]
